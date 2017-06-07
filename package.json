@@ -1,8 +1,8 @@
 {
-  "name": "cf-client",
+  "name": "cf-nodejs-client",
   "version": "0.13.26",
   "description": "A Cloud Foundry Client for Node.js",
-  "author": "Juan Antonio Breña Moral <bren@juanantonio.info>",
+  "author": "Rajesh Jain <rjain15@gmail.com>",
   "license": "Apache-2.0",
   "main": "index.js",
   "scripts": {
@@ -14,13 +14,13 @@
     "test:pws": "mocha test --config=PIVOTAL",
     "test:bluemix": "mocha test --config=BLUEMIX"
   },
-  "homepage": "https://github.com/IBM-Bluemix/cf-nodejs-client",
+  "homepage": "https://github.com/rjain15/cf-nodejs-client",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IBM-Bluemix/cf-nodejs-client.git"
+    "url": "git+https://github.com/rjain15/cf-nodejs-client.git"
   },
   "bugs": {
-    "url": "https://github.com/IBM-Bluemix/cf-nodejs-client/issues"
+    "url": "https://github.com/rjain15/cf-nodejs-client/issues"
   },
   "engines": {
     "node": ">=4.2.3",
