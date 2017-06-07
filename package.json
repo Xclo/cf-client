@@ -1,5 +1,5 @@
 {
-  "name": "cf-nodejs-client",
+  "name": "cf-client",
   "version": "0.13.26",
   "description": "A Cloud Foundry Client for Node.js",
   "author": "Rajesh Jain <rjain15@gmail.com>",
@@ -14,13 +14,13 @@
     "test:pws": "mocha test --config=PIVOTAL",
     "test:bluemix": "mocha test --config=BLUEMIX"
   },
-  "homepage": "https://github.com/rjain15/cf-nodejs-client",
+  "homepage": "https://github.com/rjain15/cf-client",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rjain15/cf-nodejs-client.git"
+    "url": "git+https://github.com/rjain15/cf-client.git"
   },
   "bugs": {
-    "url": "https://github.com/rjain15/cf-nodejs-client/issues"
+    "url": "https://github.com/rjain15/cf-client/issues"
   },
   "engines": {
     "node": ">=4.2.3",

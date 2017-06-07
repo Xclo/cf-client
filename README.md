@@ -18,6 +18,10 @@
 - [Issues](#issues)
 - [References](#references)
 
+# Change Log
+1. Changes the setToken method to support JWT token
+
+
 # Overview
 
 This project provides a simple client library to interact with the [Cloud Foundry Architecture](https://docs.pivotal.io/pivotalcf/concepts/architecture/):
